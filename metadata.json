@@ -1,0 +1,8 @@
+{
+  "name": "APEX: Gods Fall",
+  "description": "A superhero and villain 2D arena fighting game featuring dual health bars, character traits, interactive stage hazards, super moves, and a clash wager system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
